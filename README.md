@@ -67,4 +67,4 @@ If you see `property 'cache_breakpoint' is unsupported`, run `pip install -U cre
 
 ## License
 
-Apache
+Apache License 2.0
