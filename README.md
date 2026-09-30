@@ -1,5 +1,3 @@
-# College-Help-Desk-Agent
-A multi-agent assistant for students. One agent handles exams and timetables and another handles fees and billing complaints.
 # College Help Desk Agent
 
 A small multi-agent chatbot for students, built with CrewAI, Groq and Streamlit. It answers questions using data stored in a SQLite database.
